@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UdpChat</string>
+    <string name="button_send">发送</string>
+</resources>
